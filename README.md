@@ -4,4 +4,8 @@ Based of the original [Material Theme](https://github.com/equinusocio/material-t
 
 To activate the color scheme, on your settings file change this line below:
 
-`"color_scheme": "Packages/Material Monokai/MaterialMonokai.tmTheme"`
+`"color_scheme": "Packages/Material Monokai/MaterialMonokai.tmTheme"` - Default (Ocean)
+`"color_scheme": "Packages/Material Monokai/MaterialMonokaiBlue.tmTheme"` - Blue
+`"color_scheme": "Packages/Material Monokai/MaterialMonokaiDark.tmTheme"` - Dark
+`"color_scheme": "Packages/Material Monokai/MaterialMonokaiLight.tmTheme"` - Light
+
